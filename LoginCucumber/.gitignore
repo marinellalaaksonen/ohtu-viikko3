@@ -1,0 +1,10 @@
+.nb-gradle/
+.gradle/
+build
+.settings/
+.vscode/
+.classpath
+.project
+build/
+bin
+.DS_Store

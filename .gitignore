@@ -1,5 +1,13 @@
-.gradle
-/build/
+.nb-gradle/
+.gradle/
+build
+.settings/
+.vscode/
+.classpath
+.project
+build/
+bin
+.DS_Store
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -12,3 +20,7 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+/HelloCucumber/nbproject/private/
+/HelloCucumber/build/
+/LoginCucumber/build/
+/WebLogin/.nb-gradle/
