@@ -1,0 +1,14 @@
+Jeff Patton esittelee artikkelissaan ”The New User Story Backlog is a Map” 
+tavan muodostaa backlog story mapin avulla. Patton aloittaa kirjoittamalla, 
+mikä storyjen kirjoittamisessa on ongelmallista jatkaen sitten esittelemään 
+mikä story map on ja miksi se ratkaisee ongelmia. Litteän backlogin ongelmana on, 
+että se ei anna kunnollista kokonaiskuvaa sovelluksen toiminnasta, vaan listaa 
+vain yksittäisiä ominaisuuksia, jolloin niiltä puuttuu konteksti. Tällöin saattaa 
+jäädä huomioimatta oleellisia osia sovelluksen toiminnasta.
+
+Story mapissa ylimpänä on hyvin isoja storyja, kuten ”sähköpostien hallinnointi”. 
+Storyt laitetaan peräkkäin ”aikajanalle”, eli sellaiseen järjestykseen jossa 
+käyttäjä oletettavasti niitä käyttää. Nämä jakautuvat pienempiin storyihin, saman 
+kaltaisiin kuin tavallisessa litteässä backlogissa. Ideana on, että pienemmät 
+storyt sijoitellaan aina sen isomman storyn alle, johon ne sisältyvät. Lisäksi 
+pienemmät storyt sijoitetaan sitä korkeammalle, mitä suurempi niiden prioriteetti on.

@@ -1,0 +1,14 @@
+Craig Larmanin ja Bas Vodden artikkeli Lean primer avaa leania siihen 
+liittyvien taustaideoiden kautta, korostaen erityisesti leanin ideologiaa 
+eikä niinkään yksittäisiä työkaluja. Erityisesti keskitytään leanin 
+toteutukseen sen alkuperäisen kehittäjän Toyotan kautta. Artikkelissa 
+esitellään ”lean thinking house”, josta sitten eritellään leanin tavoite 
+(tuotteen tuottaminen/toimittaminen nopeasti mutta kestävästi kehityksessä 
+osaamalla ja tuotannossa parantamalla enemmän kuin kilpailijat), perusta 
+(leanin sisäistäneet manageri-opettajat, jotka kiertelevät työntekijöiden 
+keskuudessa ja opettavat näitä ajattelemaan itsenäisesti leanin mukaisesti), 
+peruspilarit (ihmisten arvostaminen, ideologialla että jos ihmisistä saadaan 
+kehitettyä taitavia he kehittävät hyviä tuotteita, ja jatkuva 
+parantaminen/kehittyminen kokeilemalla jatkuvasti uutta, korostaen että 
+virheitä saa tehdä mutta jatkuvasti tulee kokeilla jotain uutta, joka 
+saattaisi kehittää toimintaa) sekä 14 periaatetta ja lean tuotekehitys. 
